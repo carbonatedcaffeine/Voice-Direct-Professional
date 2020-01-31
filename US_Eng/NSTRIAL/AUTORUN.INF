@@ -1,0 +1,7 @@
+[autorun]
+OPEN=AUTORUN.EXE
+ICON=AUTORUN.ICO
+SHELL\README\COMMAND=Write.exe \Readme.wri
+SHELL\README=Read &Me First
+SHELL\QCKTOUR\COMMAND=WinHelp.exe \Qcktour.hlp
+SHELL\QCKTOUR=&Quick Tour
